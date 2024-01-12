@@ -26,7 +26,15 @@ To avoid unexpected behaviour, use the same value for both the width and the hei
 
 Wait for the process to finish, then check the output file.
 
-To automatically produce the images for all available inputs, run `{repo}/Assignment_{n}/Assignment_{n}/script.sh` after building. The output images are stored in `{repo}/Assignment_4/Assignment_4/image`.
+#### Alternative Method
+
+To automatically produce the images for all available inputs, run the following after building:
+
+`{repo}/Assignment_4/Assignment_4/script.sh`
+
+The output images are stored in:
+
+`{repo}/Assignment_4/Assignment_4/image`
 
 ## Assignment 1: Loading Models and Transformations
 
